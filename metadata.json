@@ -1,0 +1,19 @@
+{
+  "name": "BONK Devnet",
+  "symbol": "dBONK",
+  "description": "A test BONK token on Solana Devnet.",
+  "image": "https://raw.githubusercontent.com/<your-username>/bonk-devnet-metadata/main/bonk.png",
+  "attributes": [
+    { "trait_type": "Network", "value": "Devnet" },
+    { "trait_type": "Type", "value": "Meme Token" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/<your-username>/bonk-devnet-metadata/main/bonk.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
