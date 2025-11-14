@@ -2,7 +2,7 @@
   "name": "BONK Devnet",
   "symbol": "dBONK",
   "description": "A test BONK token on Solana Devnet.",
-  "image": "https://raw.githubusercontent.com/<your-username>/bonk-devnet-metadata/main/bonk.png",
+  "image": "https://s3.coinmarketcap.com/static-gravity/image/a28128d9ff7c49c9ad33ee2f626fda40.png",
   "attributes": [
     { "trait_type": "Network", "value": "Devnet" },
     { "trait_type": "Type", "value": "Meme Token" }
@@ -11,7 +11,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/<your-username>/bonk-devnet-metadata/main/bonk.png",
+        "uri": "https://s3.coinmarketcap.com/static-gravity/image/a28128d9ff7c49c9ad33ee2f626fda40.png",
         "type": "image/png"
       }
     ]
